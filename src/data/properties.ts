@@ -215,7 +215,7 @@ export const testimonials = [
     id: "1",
     name: "James Richardson",
     role: "Property Investor, UK",
-    quote: "Zamzam Properties made my Dubai investment seamless. The ROI has exceeded my expectations — 9% in the first year alone.",
+    quote: "Qalaht Al Tilal Real Estate made my UAE investment seamless. The ROI has exceeded my expectations — 9% in the first year alone.",
     avatar: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150",
     verified: true,
   },
@@ -239,7 +239,7 @@ export const testimonials = [
     id: "4",
     name: "Sarah Thompson",
     role: "Expat Resident, Dubai",
-    quote: "As a first-time buyer in Dubai, I needed guidance every step of the way. Zamzam Properties delivered beyond my expectations.",
+    quote: "As a first-time buyer in the UAE, I needed guidance every step of the way. Qalaht Al Tilal Real Estate delivered beyond my expectations.",
     avatar: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150",
     verified: true,
   },
@@ -247,9 +247,9 @@ export const testimonials = [
 
 export const teamMembers = [
   {
-    name: "Ahmed Al-Zamzami",
-    title: "Founder & CEO",
-    bio: "20+ years in Dubai real estate with deep market expertise.",
+    name: "Wakil Khan",
+    title: "CEO",
+    bio: "Visionary leader driving Qalaht Al Tilal Real Estate with deep market expertise across the UAE.",
     avatar: "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=300",
   },
   {

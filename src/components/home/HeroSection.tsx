@@ -25,7 +25,7 @@ const HeroSection = () => {
             transition={{ duration: 0.7 }}
           >
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-display font-bold text-secondary-foreground leading-tight">
-              Invest in Dubai Real Estate with{" "}
+              Invest in UAE Real Estate with{" "}
               <span className="text-primary">High ROI</span> &{" "}
               <span className="text-primary">Golden Visa</span> Eligibility
             </h1>

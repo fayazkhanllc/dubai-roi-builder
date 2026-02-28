@@ -36,10 +36,10 @@ const Header = () => {
       <div className="container mx-auto flex items-center justify-between px-4 py-4">
         <Link to="/" className="flex items-center gap-2">
           <span className="text-2xl font-display font-bold text-primary">
-            Zamzam
+            Qalaht Al Tilal
           </span>
           <span className="text-sm font-body text-secondary-foreground/80 tracking-widest uppercase">
-            Properties
+            Real Estate
           </span>
         </Link>
 

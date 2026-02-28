@@ -10,10 +10,10 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10">
           {/* Brand */}
           <div>
-            <span className="text-2xl font-display font-bold text-primary">Zamzam</span>
-            <span className="text-sm tracking-widest uppercase ml-2 text-secondary-foreground/70">Properties</span>
+            <span className="text-2xl font-display font-bold text-primary">Qalaht Al Tilal</span>
+            <span className="text-sm tracking-widest uppercase ml-2 text-secondary-foreground/70">Real Estate</span>
             <p className="mt-4 text-sm text-secondary-foreground/70 leading-relaxed">
-              Your trusted partner for premium Dubai real estate investments. RERA Licensed.
+              Your trusted partner for premium UAE real estate investments. RERA Licensed.
             </p>
             <p className="mt-2 text-xs text-primary">RERA License: #12345</p>
           </div>
@@ -43,10 +43,10 @@ const Footer = () => {
           <div>
             <h4 className="font-display font-semibold text-primary mb-4">Contact</h4>
             <ul className="space-y-2 text-sm text-secondary-foreground/70">
-              <li>Office 1205, Business Bay Tower</li>
-              <li>Dubai, United Arab Emirates</li>
-              <li>+971 4 123 4567</li>
-              <li>info@zamzamproperties.ae</li>
+              <li>Building No 4851, Shop No 01</li>
+              <li>Tilal City, Sharjah, UAE</li>
+              <li>+971 065 798 333</li>
+              <li>info@qalahtalilal.ae</li>
             </ul>
           </div>
 
@@ -82,7 +82,7 @@ const Footer = () => {
             ))}
           </div>
           <p className="text-xs text-secondary-foreground/40 text-center">
-            © 2026 Zamzam Properties. All rights reserved. We comply with GDPR and UAE data protection regulations.
+            © 2026 Qalaht Al Tilal Real Estate. All rights reserved. We comply with GDPR and UAE data protection regulations.
           </p>
         </div>
       </div>

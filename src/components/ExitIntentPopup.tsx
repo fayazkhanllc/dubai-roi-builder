@@ -33,7 +33,7 @@ const ExitIntentPopup = () => {
             Free Dubai Investment Guide
           </h3>
           <p className="text-sm text-muted-foreground mt-2">
-            Get our exclusive 2026 Dubai Real Estate Investment Guide — ROI analysis, Golden Visa tips, and top areas to buy.
+            Get our exclusive 2026 UAE Real Estate Investment Guide — ROI analysis, Golden Visa tips, and top areas to buy.
           </p>
         </div>
         <form

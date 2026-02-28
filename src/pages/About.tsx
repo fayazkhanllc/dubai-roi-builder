@@ -19,11 +19,11 @@ const About = () => {
             className="max-w-3xl mx-auto text-center mb-16"
           >
             <h1 className="text-3xl md:text-4xl font-display font-bold text-foreground">
-              About <span className="text-primary">Zamzam Properties</span>
+              About <span className="text-primary">Qalaht Al Tilal Real Estate</span>
             </h1>
             <p className="mt-6 text-muted-foreground leading-relaxed">
-              Founded in Dubai with a vision to make world-class real estate investment
-              accessible to global buyers, Zamzam Properties has grown into one of the
+              Founded in Sharjah with a vision to make world-class real estate investment
+              accessible to global buyers, Qalaht Al Tilal Real Estate has grown into one of the
               most trusted names in the UAE property market. Our RERA-licensed team
               combines deep market knowledge with a client-first approach to deliver
               exceptional results for investors and homeowners alike.
@@ -40,7 +40,7 @@ const About = () => {
             <Shield className="h-8 w-8 text-primary" />
             <div>
               <p className="font-semibold text-foreground">RERA Licensed Agency</p>
-              <p className="text-sm text-muted-foreground">License #12345 — Dubai Land Department</p>
+              <p className="text-sm text-muted-foreground">License #12345 — Sharjah Real Estate Registration Department</p>
             </div>
           </div>
 
