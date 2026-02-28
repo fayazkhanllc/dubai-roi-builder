@@ -2,12 +2,12 @@ import { MessageCircle } from "lucide-react";
 
 const WhatsAppButton = () => {
   const message = encodeURIComponent(
-    "Hi Zamzam Properties! I'm interested in Dubai real estate investment. Can you help me?"
+    "Hi Qalaht Al Tilal Real Estate! I'm interested in UAE real estate investment. Can you help me?"
   );
 
   return (
     <a
-      href={`https://wa.me/97141234567?text=${message}`}
+      href={`https://wa.me/971065798333?text=${message}`}
       target="_blank"
       rel="noopener noreferrer"
       className="fixed bottom-6 right-6 z-50 bg-[#25D366] hover:bg-[#20bd5a] text-white rounded-full p-4 shadow-2xl transition-transform hover:scale-110"

@@ -13,11 +13,11 @@ const AboutPreview = () => {
             viewport={{ once: true }}
           >
             <h2 className="text-3xl md:text-4xl font-display font-bold text-foreground">
-              About <span className="text-primary">Zamzam Properties</span>
+              About <span className="text-primary">Qalaht Al Tilal Real Estate</span>
             </h2>
             <p className="mt-4 text-muted-foreground leading-relaxed">
-              With over two decades of experience in Dubai's dynamic real estate market,
-              Zamzam Properties has helped hundreds of investors achieve exceptional returns.
+              With over two decades of experience in the UAE's dynamic real estate market,
+              Qalaht Al Tilal Real Estate has helped hundreds of investors achieve exceptional returns.
               We are RERA-licensed, trusted by global clients, and partnered with Dubai's
               leading developers.
             </p>

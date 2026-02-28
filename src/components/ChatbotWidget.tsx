@@ -4,7 +4,7 @@ import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 
 const sampleResponses: Record<string, string> = {
-  default: "Thank you for reaching out! Our team will get back to you shortly. For immediate assistance, call us at +971 4 123 4567.",
+  default: "Thank you for reaching out! Our team will get back to you shortly. For immediate assistance, call us at +971 065 798 333.",
   roi: "Dubai offers some of the highest rental yields globally — averaging 7-10% across premium locations like Dubai Marina, Downtown, and Business Bay.",
   visa: "Properties valued at AED 2M+ qualify you for a 10-year Golden Visa, granting long-term residency for you and your family.",
   price: "Our listings range from AED 950K studio apartments to AED 12.5M+ luxury villas. We can help find the right fit for your budget.",
@@ -46,7 +46,7 @@ const ChatbotWidget = () => {
       {open && (
         <div className="fixed bottom-6 right-6 z-[55] w-80 bg-card border border-border rounded-lg shadow-2xl flex flex-col max-h-[28rem]">
           <div className="flex items-center justify-between p-4 border-b border-border bg-secondary rounded-t-lg">
-            <span className="font-display font-semibold text-secondary-foreground">Zamzam AI</span>
+            <span className="font-display font-semibold text-secondary-foreground">Qalaht Al Tilal AI</span>
             <button onClick={() => setOpen(false)} className="text-secondary-foreground/60 hover:text-secondary-foreground">
               <X className="h-4 w-4" />
             </button>
