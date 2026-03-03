@@ -1,3 +1,8 @@
+import tilalBuilding1 from "@/assets/tilal-building-1.jpeg";
+import tilalBuilding2 from "@/assets/tilal-building-2.jpeg";
+import tilalBuilding3 from "@/assets/tilal-building-3.jpeg";
+import tilalBuilding4 from "@/assets/tilal-building-4.jpeg";
+
 export interface Property {
   id: string;
   title: string;
@@ -196,6 +201,30 @@ export const properties: Property[] = [
     featured: false,
     offPlan: true,
   },
+  {
+    id: "9",
+    title: "Tilal City Commercial Building",
+    description: "Premium commercial building in Tilal City, Sharjah with modern architecture, multiple floors, retail shops on ground level, and residential apartments above. Excellent investment opportunity with high rental yield.",
+    price: 11000000,
+    priceFormatted: "AED 11,000,000",
+    roi: 8.5,
+    bedrooms: 0,
+    bathrooms: 8,
+    area: 12000,
+    type: "Commercial",
+    location: "Tilal City, Sharjah",
+    developer: "Qalaht Al Tilal Real Estate",
+    handoverDate: "Ready",
+    paymentPlan: "N/A",
+    images: [
+      tilalBuilding1,
+      tilalBuilding2,
+      tilalBuilding3,
+      tilalBuilding4,
+    ],
+    featured: true,
+    offPlan: false,
+  },
 ];
 
 export const locations = [
@@ -208,6 +237,7 @@ export const locations = [
   "Dubai Hills",
   "JVC",
   "Dubai Creek Harbour",
+  "Tilal City, Sharjah",
 ];
 
 export const testimonials = [
