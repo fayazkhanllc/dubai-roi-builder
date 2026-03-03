@@ -3,6 +3,7 @@ import { Link, useLocation } from "react-router-dom";
 import { Menu, X, Phone } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
+import logo from "@/assets/logo.jpeg";
 
 const navLinks = [
   { label: "Home", href: "/" },
@@ -35,12 +36,7 @@ const Header = () => {
     >
       <div className="container mx-auto flex items-center justify-between px-4 py-4">
         <Link to="/" className="flex items-center gap-2">
-          <span className="text-2xl font-display font-bold text-primary">
-            Qalaht Al Tilal
-          </span>
-          <span className="text-sm font-body text-secondary-foreground/80 tracking-widest uppercase">
-            Real Estate
-          </span>
+          <img src={logo} alt="Qalaht Al Tilal Real Estate" className="h-12 w-auto" />
         </Link>
 
         {/* Desktop nav */}
