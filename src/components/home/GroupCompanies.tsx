@@ -1,6 +1,8 @@
 import { motion } from "framer-motion";
 import qalahtLogo from "@/assets/qalaht-logo.jpeg";
 import axisLogo from "@/assets/axis-logo.jpeg";
+import kayiLogo from "@/assets/kayi-logo.jpeg";
+import homelinkLogo from "@/assets/homelink-logo.jpeg";
 
 const companies = [
   {
@@ -12,6 +14,16 @@ const companies = [
     name: "Axis Real Estate",
     logo: axisLogo,
     description: "Strategic real estate investments and development solutions driving growth across emerging markets.",
+  },
+  {
+    name: "Kayi Real Estate",
+    logo: kayiLogo,
+    description: "Innovative real estate solutions with a focus on high-growth investment opportunities in the UAE market.",
+  },
+  {
+    name: "Home Link Real Estate",
+    logo: homelinkLogo,
+    description: "Connecting buyers and sellers with trusted property solutions and personalized real estate services.",
   },
 ];
 
