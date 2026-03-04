@@ -2,6 +2,7 @@ import tilalBuilding1 from "@/assets/tilal-building-1.jpeg";
 import tilalBuilding2 from "@/assets/tilal-building-2.jpeg";
 import tilalBuilding3 from "@/assets/tilal-building-3.jpeg";
 import tilalBuilding4 from "@/assets/tilal-building-4.jpeg";
+import waliKhanAvatar from "@/assets/wali-khan.jpeg";
 
 export interface Property {
   id: string;
@@ -301,10 +302,10 @@ export const testimonials = [
 
 export const teamMembers = [
   {
-    name: "Wakil Khan",
+    name: "Wali Khan",
     title: "CEO",
     bio: "Visionary leader driving Qalaht Al Tilal Real Estate with deep market expertise across the UAE.",
-    avatar: "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=300",
+    avatar: waliKhanAvatar,
   },
   {
     name: "Nadia Khalil",
