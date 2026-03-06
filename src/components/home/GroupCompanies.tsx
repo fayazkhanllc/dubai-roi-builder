@@ -21,11 +21,6 @@ const companies = [
     description: "Connecting buyers and sellers with trusted property solutions and personalized real estate services.",
   },
   {
-    name: "Axis Real Estate",
-    logo: axisLogo,
-    description: "Strategic real estate investments and development solutions driving growth across emerging markets.",
-  },
-  {
     name: "B17 Pakistan",
     logo: axisLogo,
     description: "Expanding our real estate footprint into Pakistan with premium development projects and investment opportunities in key growth corridors.",
