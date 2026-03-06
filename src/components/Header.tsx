@@ -36,8 +36,7 @@ const Header = () => {
     >
       <div className="container mx-auto flex items-center justify-between px-4 py-4">
         <Link to="/" className="flex items-center gap-3">
-          <img src={logo} alt="Qalaht Al Tilal Real Estate" className="h-12 w-auto" />
-          <span className="font-display font-bold text-lg text-secondary-foreground leading-tight hidden sm:block">
+          <span className="font-display font-bold text-lg text-secondary-foreground leading-tight">
             Qalaht Al Tilal<br />
             <span className="text-primary text-sm font-semibold tracking-wide">Real Estate</span>
           </span>
