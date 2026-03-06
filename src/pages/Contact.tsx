@@ -59,9 +59,9 @@ const Contact = () => {
               <div className="space-y-5">
                 {[
                   { icon: MapPin, label: "Office Address", value: "Building No 4851, Shop No 01, Tilal City, Sharjah, UAE" },
-                  { icon: Phone, label: "Phone", value: "+971 065 798 333" },
-                  { icon: MessageCircle, label: "WhatsApp", value: "+971 065 798 333" },
-                  { icon: Mail, label: "Email", value: "info@qalahtalilal.ae" },
+                  { icon: Phone, label: "Phone", value: "+971 500252026" },
+                  { icon: MessageCircle, label: "WhatsApp", value: "+971 500252026" },
+                  { icon: Mail, label: "Email", value: "realestateqalahtaltilal@gmail.com" },
                   { icon: Clock, label: "Business Hours", value: "Sun – Thu: 9AM – 6PM | Fri: 9AM – 1PM" },
                 ].map((item) => (
                   <div key={item.label} className="flex items-start gap-3">
