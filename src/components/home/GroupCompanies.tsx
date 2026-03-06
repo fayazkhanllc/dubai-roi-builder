@@ -11,11 +11,6 @@ const companies = [
     description: "Premium real estate brokerage specializing in residential and commercial properties across the UAE.",
   },
   {
-    name: "Axis Real Estate",
-    logo: axisLogo,
-    description: "Strategic real estate investments and development solutions driving growth across emerging markets.",
-  },
-  {
     name: "Kayi Real Estate",
     logo: kayiLogo,
     description: "Innovative real estate solutions with a focus on high-growth investment opportunities in the UAE market.",
@@ -24,6 +19,16 @@ const companies = [
     name: "Home Link Real Estate",
     logo: homelinkLogo,
     description: "Connecting buyers and sellers with trusted property solutions and personalized real estate services.",
+  },
+  {
+    name: "Axis Real Estate",
+    logo: axisLogo,
+    description: "Strategic real estate investments and development solutions driving growth across emerging markets.",
+  },
+  {
+    name: "B17 Pakistan",
+    logo: axisLogo,
+    description: "Expanding our real estate footprint into Pakistan with premium development projects and investment opportunities in key growth corridors.",
   },
 ];
 

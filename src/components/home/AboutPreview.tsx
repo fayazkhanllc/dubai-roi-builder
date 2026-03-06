@@ -16,13 +16,11 @@ const AboutPreview = () => {
               About <span className="text-primary">Qalaht Al Tilal Real Estate</span>
             </h2>
             <p className="mt-4 text-muted-foreground leading-relaxed">
-              With over two decades of experience in the UAE's dynamic real estate market,
-              Qalaht Al Tilal Real Estate has helped hundreds of investors achieve exceptional returns.
-              We are RERA-licensed, trusted by global clients, and partnered with Dubai's
-              leading developers.
+              Qalaht Al Tilal Real Estate have been providing expert guidance to clients across the UAE's dynamic real estate market. With a strong focus on villas, commercial properties, investment opportunities, and premium residential communities, we support both individuals and businesses in achieving their real estate goals.
             </p>
             <p className="mt-4 text-muted-foreground leading-relaxed">
-              Whether you're looking for a high-ROI investment, Golden Visa eligibility,
+              We are RERA-licensed, trusted by global clients, and partnered with Dubai's
+              leading developers. Whether you're looking for a high-ROI investment, Golden Visa eligibility,
               or your dream home in Dubai — our team of experts is here to guide you
               every step of the way.
             </p>
