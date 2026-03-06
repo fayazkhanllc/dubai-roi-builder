@@ -11,14 +11,14 @@ const companies = [
     description: "Premium real estate brokerage specializing in residential and commercial properties across the UAE.",
   },
   {
-    name: "Kayi Real Estate",
-    logo: kayiLogo,
-    description: "Innovative real estate solutions with a focus on high-growth investment opportunities in the UAE market.",
-  },
-  {
     name: "Home Link Real Estate",
     logo: homelinkLogo,
     description: "Connecting buyers and sellers with trusted property solutions and personalized real estate services.",
+  },
+  {
+    name: "Kayi Real Estate",
+    logo: kayiLogo,
+    description: "Innovative real estate solutions with a focus on high-growth investment opportunities in the UAE market.",
   },
   {
     name: "B17 Pakistan",
