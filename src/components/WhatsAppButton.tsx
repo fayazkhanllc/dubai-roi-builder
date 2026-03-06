@@ -7,7 +7,7 @@ const WhatsAppButton = () => {
 
   return (
     <a
-      href={`https://wa.me/971065798333?text=${message}`}
+      href={`https://wa.me/971500252026?text=${message}`}
       target="_blank"
       rel="noopener noreferrer"
       className="fixed bottom-6 right-6 z-50 bg-[#25D366] hover:bg-[#20bd5a] text-white rounded-full p-4 shadow-2xl transition-transform hover:scale-110"
