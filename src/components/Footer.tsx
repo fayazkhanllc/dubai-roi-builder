@@ -45,8 +45,8 @@ const Footer = () => {
             <ul className="space-y-2 text-sm text-secondary-foreground/70">
               <li>Building No 4851, Shop No 01</li>
               <li>Tilal City, Sharjah, UAE</li>
-              <li>+971 065 798 333</li>
-              <li>info@qalahtalilal.ae</li>
+              <li>+971 500252026</li>
+              <li>realestateqalahtaltilal@gmail.com</li>
             </ul>
           </div>
 
