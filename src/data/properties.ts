@@ -312,7 +312,7 @@ export const teamMembers = [
   },
   {
     name: "Mr Abrar",
-    title: "CEO",
+    title: "Co-CEO",
     bio: "Strategic leader driving growth and innovation at Qalaht Al Tilal Real Estate.",
     avatar: abrarAvatar,
   },
