@@ -40,7 +40,7 @@ const About = () => {
             <Shield className="h-8 w-8 text-primary" />
             <div>
               <p className="font-semibold text-foreground">RERA Licensed Agency</p>
-              <p className="text-sm text-muted-foreground">License #12345 — Sharjah Real Estate Registration Department</p>
+              <p className="text-sm text-muted-foreground">License #907298 — Sharjah Real Estate Registration Department</p>
             </div>
           </div>
 
