@@ -4,6 +4,7 @@ import tilalBuilding3 from "@/assets/tilal-building-3.jpeg";
 import tilalBuilding4 from "@/assets/tilal-building-4.jpeg";
 import waliKhanAvatar from "@/assets/wali-khan.jpeg";
 import abrarAvatar from "@/assets/abrar.jpeg";
+import arslanSaleemAvatar from "@/assets/arslan-saleem.jpeg";
 
 export interface Property {
   id: string;
@@ -315,10 +316,10 @@ export const teamMembers = [
     avatar: abrarAvatar,
   },
   {
-    name: "Omar Rashid",
-    title: "Senior Property Consultant",
-    bio: "Expert in Golden Visa eligibility and investment structuring.",
-    avatar: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=300",
+    name: "Arslan Saleem",
+    title: "Sales & Leasing Consultant",
+    bio: "Dedicated sales professional helping clients find their ideal properties across the UAE.",
+    avatar: arslanSaleemAvatar,
   },
   {
     name: "Priya Sharma",
