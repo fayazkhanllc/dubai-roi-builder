@@ -301,6 +301,38 @@ export const testimonials = [
     avatar: "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=150",
     verified: true,
   },
+  {
+    id: "8",
+    name: "Robert Mitchell",
+    role: "Portfolio Manager, New York, USA",
+    quote: "I was skeptical about investing overseas, but Qalaht Al Tilal walked me through every detail — tax implications, rental yields, visa benefits. My Dubai Marina unit is now generating 8.7% annually. Best decision I've made outside Wall Street.",
+    avatar: "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=150",
+    verified: true,
+  },
+  {
+    id: "9",
+    name: "Sophie Laurent",
+    role: "Architect, Paris, France",
+    quote: "As someone who appreciates design, I was impressed by the quality of developments they recommended. The entire process was handled in English and French, and my Business Bay apartment exceeded every expectation. Merci to the whole team.",
+    avatar: "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=150",
+    verified: true,
+  },
+  {
+    id: "10",
+    name: "Daniel Fraser",
+    role: "Real Estate Attorney, Toronto, Canada",
+    quote: "I've reviewed hundreds of property contracts in my career, and the transparency Qalaht Al Tilal provided was refreshing. No hidden fees, no surprises — just a clean, well-structured deal. My Sharjah investment is already appreciating nicely.",
+    avatar: "https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?w=150",
+    verified: true,
+  },
+  {
+    id: "11",
+    name: "Marcus Hoffmann",
+    role: "Tech Investor, Berlin, Germany",
+    quote: "After selling my startup, I wanted to diversify into real estate outside Europe. Qalaht Al Tilal helped me acquire two off-plan units in Tilal City with a 60/40 payment plan. The rental projections are tracking perfectly — couldn't be happier.",
+    avatar: "https://images.unsplash.com/photo-1507591064344-4c6ce005b128?w=150",
+    verified: true,
+  },
 ];
 
 export const teamMembers = [
