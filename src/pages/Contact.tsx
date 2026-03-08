@@ -58,7 +58,7 @@ const Contact = () => {
             >
               <div className="space-y-5">
                 {[
-                  { icon: MapPin, label: "Office Address", value: "Building No 4851, Shop No 01, Tilal City, Sharjah, UAE" },
+                  { icon: MapPin, label: "Office Address", value: "Building No 4851, Office No 01, Tilal City, Sharjah, UAE" },
                   { icon: Phone, label: "Phone", value: "+971 500252026" },
                   { icon: MessageCircle, label: "WhatsApp", value: "+971 500252026" },
                   { icon: Mail, label: "Email", value: "realestateqalahtaltilal@gmail.com" },
@@ -75,13 +75,27 @@ const Contact = () => {
               </div>
 
               {/* Map placeholder */}
-              <div className="bg-muted rounded-lg h-64 flex items-center justify-center text-muted-foreground border border-border">
-                <div className="text-center">
-                  <MapPin className="h-8 w-8 mx-auto mb-2 text-primary" />
-                  <p className="text-sm">Google Maps Embed Placeholder</p>
-                  <p className="text-xs">Tilal City, Sharjah, UAE</p>
-                </div>
+              <div className="rounded-lg h-64 overflow-hidden border border-border">
+                <iframe
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3606.0!2d55.4!3d25.3!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMjXCsDE4JzAwLjAiTiA1NcKwMjQnMDAuMCJF!5e0!3m2!1sen!2sae!4v1234567890"
+                  width="100%"
+                  height="100%"
+                  style={{ border: 0 }}
+                  allowFullScreen
+                  loading="lazy"
+                  referrerPolicy="no-referrer-when-downgrade"
+                  title="Office Location"
+                ></iframe>
               </div>
+              <a
+                href="https://maps.app.goo.gl/zjTtqvbhEVxj4tkX8"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-2 text-sm text-primary hover:underline mt-2"
+              >
+                <MapPin className="h-4 w-4" />
+                Open in Google Maps
+              </a>
             </motion.div>
           </div>
         </div>
