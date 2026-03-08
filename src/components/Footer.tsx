@@ -15,7 +15,7 @@ const Footer = () => {
             <p className="mt-4 text-sm text-secondary-foreground/70 leading-relaxed">
               Your trusted partner for premium UAE real estate investments. RERA Licensed.
             </p>
-            <p className="mt-2 text-xs text-primary">RERA License: #12345</p>
+            <p className="mt-2 text-xs text-primary">RERA License: #907298</p>
           </div>
 
           {/* Quick Links */}
