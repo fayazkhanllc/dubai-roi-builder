@@ -323,9 +323,9 @@ export const teamMembers = [
     avatar: arslanSaleemAvatar,
   },
   {
-    name: "Priya Sharma",
-    title: "Client Relations Manager",
-    bio: "Dedicated to ensuring seamless buying experiences for international clients.",
-    avatar: "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=300",
+    name: "Muhammad Shahbaz",
+    title: "Real Estate Consultant",
+    bio: "Experienced consultant providing expert guidance on property investments across the UAE.",
+    avatar: muhammadShahbazAvatar,
   },
 ];
