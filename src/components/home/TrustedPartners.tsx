@@ -20,19 +20,22 @@ const TrustedPartners = () => {
           </p>
         </motion.div>
 
-        <div className="flex flex-wrap justify-center gap-5">
-          {developers.map((d, i) => (
-            <motion.div
-              key={d}
-              initial={{ opacity: 0, scale: 0.9 }}
-              whileInView={{ opacity: 1, scale: 1 }}
-              viewport={{ once: true }}
-              transition={{ delay: i * 0.06 }}
-              className="bg-muted border border-border rounded-lg px-10 py-5 text-center font-display font-semibold text-foreground hover:border-primary/50 hover:shadow-lg transition-all duration-300"
-            >
-              {d}
-            </motion.div>
-          ))}
+        <div className="relative overflow-hidden group">
+          {/* Gradient fades */}
+          <div className="absolute left-0 top-0 bottom-0 w-20 md:w-32 z-10 pointer-events-none bg-gradient-to-r from-background to-transparent" />
+          <div className="absolute right-0 top-0 bottom-0 w-20 md:w-32 z-10 pointer-events-none bg-gradient-to-l from-background to-transparent" />
+
+          {/* Ticker track */}
+          <div className="flex w-max animate-ticker group-hover:[animation-play-state:paused]">
+            {[...developers, ...developers, ...developers, ...developers].map((d, i) => (
+              <div
+                key={`${d}-${i}`}
+                className="mx-3 shrink-0 bg-muted border border-border rounded-lg px-10 py-5 text-center font-display font-semibold text-foreground transition-all duration-300 hover:scale-105 hover:border-primary/50 hover:shadow-lg cursor-default select-none"
+              >
+                {d}
+              </div>
+            ))}
+          </div>
         </div>
       </div>
     </section>
