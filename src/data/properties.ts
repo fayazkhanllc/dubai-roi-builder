@@ -5,6 +5,7 @@ import tilalBuilding4 from "@/assets/tilal-building-4.jpeg";
 import waliKhanAvatar from "@/assets/wali-khan.jpeg";
 import abrarAvatar from "@/assets/abrar.jpeg";
 import arslanSaleemAvatar from "@/assets/arslan-saleem.jpeg";
+import muhammadShahbazAvatar from "@/assets/muhammad-shahbaz.jpeg";
 
 export interface Property {
   id: string;
@@ -311,7 +312,7 @@ export const teamMembers = [
   },
   {
     name: "Mr Abrar",
-    title: "CEO",
+    title: "Co-CEO",
     bio: "Strategic leader driving growth and innovation at Qalaht Al Tilal Real Estate.",
     avatar: abrarAvatar,
   },
@@ -322,9 +323,9 @@ export const teamMembers = [
     avatar: arslanSaleemAvatar,
   },
   {
-    name: "Priya Sharma",
-    title: "Client Relations Manager",
-    bio: "Dedicated to ensuring seamless buying experiences for international clients.",
-    avatar: "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=300",
+    name: "Muhammad Shahbaz",
+    title: "Real Estate Consultant",
+    bio: "Experienced consultant providing expert guidance on property investments across the UAE.",
+    avatar: muhammadShahbazAvatar,
   },
 ];
