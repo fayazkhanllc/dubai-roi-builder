@@ -4,6 +4,7 @@ import tilalBuilding3 from "@/assets/tilal-building-3.jpeg";
 import tilalBuilding4 from "@/assets/tilal-building-4.jpeg";
 import waliKhanAvatar from "@/assets/wali-khan.jpeg";
 import abrarAvatar from "@/assets/abrar.jpeg";
+import arslanSaleemAvatar from "@/assets/arslan-saleem.jpeg";
 
 export interface Property {
   id: string;
