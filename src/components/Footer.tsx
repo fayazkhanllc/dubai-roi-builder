@@ -43,8 +43,8 @@ const Footer = () => {
           <div>
             <h4 className="font-display font-semibold text-primary mb-4">Contact</h4>
             <ul className="space-y-2 text-sm text-secondary-foreground/70">
-              <li>Building No 4851, Shop No 01</li>
-              <li>Tilal City, Sharjah, UAE</li>
+              <li>Building No 4851, Office# 01</li>
+              <li>Tilal City, Sharjah, United Arab Emirate</li>
               <li>+971 500252026</li>
               <li>realestateqalahtaltilal@gmail.com</li>
             </ul>
