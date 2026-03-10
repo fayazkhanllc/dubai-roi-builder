@@ -396,4 +396,10 @@ export const teamMembers = [
     bio: "Reliable real estate agent committed to helping clients find the perfect property across the UAE.",
     avatar: ramzanAslamAvatar,
   },
+  {
+    name: "Asif Khan",
+    title: "Real Estate Specialist",
+    bio: "Skilled real estate specialist with in-depth knowledge of the UAE property market and investment opportunities.",
+    avatar: asifKhanAvatar,
+  },
 ];
