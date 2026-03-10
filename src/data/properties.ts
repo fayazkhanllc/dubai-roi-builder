@@ -6,6 +6,7 @@ import waliKhanAvatar from "@/assets/wali-khan.jpeg";
 import abrarAvatar from "@/assets/abrar.jpeg";
 import arslanSaleemAvatar from "@/assets/arslan-saleem.jpeg";
 import muhammadShahbazAvatar from "@/assets/muhammad-shahbaz.jpeg";
+import muhammadWaqarKhanAvatar from "@/assets/muhammad-waqar-khan.jpeg";
 
 export interface Property {
   id: string;
@@ -359,5 +360,11 @@ export const teamMembers = [
     title: "Real Estate Consultant",
     bio: "Experienced consultant providing expert guidance on property investments across the UAE.",
     avatar: muhammadShahbazAvatar,
+  },
+  {
+    name: "Muhammad Waqar Khan",
+    title: "Real Estate Broker",
+    bio: "Experienced real estate broker delivering exceptional property solutions and client service across the UAE.",
+    avatar: muhammadWaqarKhanAvatar,
   },
 ];
