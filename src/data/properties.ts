@@ -375,4 +375,10 @@ export const teamMembers = [
     bio: "Committed real estate agent helping clients navigate the UAE property market with professionalism and care.",
     avatar: alamgirKhanAvatar,
   },
+  {
+    name: "Adnan Saeed",
+    title: "Sales & Leasing Management Expert",
+    bio: "Expert in sales and leasing management, delivering strategic property solutions across the UAE market.",
+    avatar: adnanSaeedAvatar,
+  },
 ];
