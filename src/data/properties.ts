@@ -361,4 +361,11 @@ export const teamMembers = [
     bio: "Experienced consultant providing expert guidance on property investments across the UAE.",
     avatar: muhammadShahbazAvatar,
   },
+  },
+  {
+    name: "Muhammad Waqar Khan",
+    title: "Real Estate Broker",
+    bio: "Experienced real estate broker delivering exceptional property solutions and client service across the UAE.",
+    avatar: muhammadWaqarKhanAvatar,
+  },
 ];
