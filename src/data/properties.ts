@@ -7,6 +7,7 @@ import abrarAvatar from "@/assets/abrar.jpeg";
 import arslanSaleemAvatar from "@/assets/arslan-saleem.jpeg";
 import muhammadShahbazAvatar from "@/assets/muhammad-shahbaz.jpeg";
 import muhammadWaqarKhanAvatar from "@/assets/muhammad-waqar-khan.jpeg";
+import alamgirKhanAvatar from "@/assets/alamgir-khan.jpeg";
 
 export interface Property {
   id: string;
