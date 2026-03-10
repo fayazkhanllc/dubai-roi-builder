@@ -368,4 +368,10 @@ export const teamMembers = [
     bio: "Experienced real estate broker delivering exceptional property solutions and client service across the UAE.",
     avatar: muhammadWaqarKhanAvatar,
   },
+  {
+    name: "Alamgir Khan",
+    title: "Real Estate Agent",
+    bio: "Committed real estate agent helping clients navigate the UAE property market with professionalism and care.",
+    avatar: alamgirKhanAvatar,
+  },
 ];
