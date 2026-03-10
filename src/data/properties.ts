@@ -389,4 +389,10 @@ export const teamMembers = [
     bio: "Dedicated real estate agent providing personalized property solutions and outstanding client service across the UAE.",
     avatar: amirAmeenAvatar,
   },
+  {
+    name: "Ramzan Aslam",
+    title: "Real Estate Agent",
+    bio: "Reliable real estate agent committed to helping clients find the perfect property across the UAE.",
+    avatar: ramzanAslamAvatar,
+  },
 ];
