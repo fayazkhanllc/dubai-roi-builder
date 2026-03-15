@@ -9,6 +9,8 @@ import PropertyDetail from "./pages/PropertyDetail";
 import About from "./pages/About";
 import Contact from "./pages/Contact";
 import NotFound from "./pages/NotFound";
+import PrivacyPolicy from "./pages/PrivacyPolicy";
+import TermsOfService from "./pages/TermsOfService";
 import WhatsAppButton from "./components/WhatsAppButton";
 import ExitIntentPopup from "./components/ExitIntentPopup";
 import ChatbotWidget from "./components/ChatbotWidget";
