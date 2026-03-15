@@ -417,4 +417,10 @@ export const teamMembers = [
     bio: "Committed real estate agent focused on delivering exceptional property solutions and client satisfaction across the UAE.",
     avatar: abdulRehmanAvatar,
   },
+  {
+    name: "Farhan Waris",
+    title: "Real Estate Agent",
+    bio: "Proactive real estate agent helping clients discover prime property opportunities across the UAE market.",
+    avatar: farhanWarisAvatar,
+  },
 ];
