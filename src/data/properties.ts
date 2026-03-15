@@ -13,6 +13,7 @@ import amirAmeenAvatar from "@/assets/amir-ameen.jpeg";
 import ramzanAslamAvatar from "@/assets/ramzan-aslam.jpeg";
 import asifKhanAvatar from "@/assets/asif-khan.jpeg";
 import saddamHussainAvatar from "@/assets/saddam-hussain.jpeg";
+import abdulRehmanAvatar from "@/assets/abdul-rehman.jpeg";
 
 export interface Property {
   id: string;
