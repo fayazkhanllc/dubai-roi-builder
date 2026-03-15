@@ -12,6 +12,7 @@ import adnanSaeedAvatar from "@/assets/adnan-saeed.jpeg";
 import amirAmeenAvatar from "@/assets/amir-ameen.jpeg";
 import ramzanAslamAvatar from "@/assets/ramzan-aslam.jpeg";
 import asifKhanAvatar from "@/assets/asif-khan.jpeg";
+import saddamHussainAvatar from "@/assets/saddam-hussain.jpeg";
 
 export interface Property {
   id: string;
