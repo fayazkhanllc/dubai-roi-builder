@@ -1,6 +1,6 @@
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
-import { teamMembers } from "@/data/properties";
+import { teamMembers, pakistanTeamMembers } from "@/data/properties";
 import { motion } from "framer-motion";
 import { Shield } from "lucide-react";
 
