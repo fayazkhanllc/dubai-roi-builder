@@ -46,7 +46,7 @@ const About = () => {
 
           {/* Team */}
           <h2 className="text-2xl md:text-3xl font-display font-bold text-foreground text-center mb-10">
-            Our <span className="text-primary">Team</span>
+            UAE <span className="text-primary">Real Estate Team</span>
           </h2>
           <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-8 mb-16">
             {teamMembers.map((m, i) => (
