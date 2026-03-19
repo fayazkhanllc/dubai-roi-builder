@@ -71,6 +71,33 @@ const About = () => {
             ))}
           </div>
 
+          {/* Pakistan Real Estate Team */}
+          <h2 className="text-2xl md:text-3xl font-display font-bold text-foreground text-center mb-10">
+            Pakistan <span className="text-primary">Real Estate Team</span>
+          </h2>
+          <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-8 mb-16">
+            {pakistanTeamMembers.map((m, i) => (
+              <motion.div
+                key={m.name}
+                initial={{ opacity: 0, y: 20 }}
+                whileInView={{ opacity: 1, y: 0 }}
+                viewport={{ once: true }}
+                transition={{ delay: i * 0.1 }}
+                className="text-center"
+              >
+                <img
+                  src={m.avatar}
+                  alt={m.name}
+                  className="w-32 h-32 rounded-full mx-auto object-cover border-2 border-primary mb-4"
+                  loading="lazy"
+                />
+                <h3 className="font-display font-semibold text-foreground">{m.name}</h3>
+                <p className="text-sm text-primary">{m.title}</p>
+                <p className="text-sm text-muted-foreground mt-1">{m.bio}</p>
+              </motion.div>
+            ))}
+          </div>
+
           {/* Partners */}
           <h2 className="text-2xl md:text-3xl font-display font-bold text-foreground text-center mb-8">
             Trusted <span className="text-primary">Developer Partners</span>

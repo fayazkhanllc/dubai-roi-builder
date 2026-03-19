@@ -405,6 +405,9 @@ export const teamMembers = [
     bio: "Skilled real estate specialist with in-depth knowledge of the UAE property market and investment opportunities.",
     avatar: asifKhanAvatar,
   },
+];
+
+export const pakistanTeamMembers = [
   {
     name: "Saddam Hussain",
     title: "Real Estate Agent",
