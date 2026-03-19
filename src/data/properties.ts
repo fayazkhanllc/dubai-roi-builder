@@ -411,19 +411,19 @@ export const pakistanTeamMembers = [
   {
     name: "Saddam Hussain",
     title: "Real Estate Agent",
-    bio: "Dedicated real estate agent delivering tailored property solutions and exceptional client service across the UAE.",
+    bio: "Dedicated real estate agent delivering tailored property solutions and exceptional client service across Pakistan.",
     avatar: saddamHussainAvatar,
   },
   {
     name: "Abdul Rehman",
     title: "Real Estate Agent",
-    bio: "Committed real estate agent focused on delivering exceptional property solutions and client satisfaction across the UAE.",
+    bio: "Committed real estate agent focused on delivering exceptional property solutions and client satisfaction across Pakistan.",
     avatar: abdulRehmanAvatar,
   },
   {
     name: "Farhan Waris",
     title: "Real Estate Agent",
-    bio: "Proactive real estate agent helping clients discover prime property opportunities across the UAE market.",
+    bio: "Proactive real estate agent helping clients discover prime property opportunities across the Pakistan market.",
     avatar: farhanWarisAvatar,
   },
 ];
