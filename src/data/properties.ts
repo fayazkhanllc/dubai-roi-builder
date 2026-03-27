@@ -364,18 +364,6 @@ export const teamMembers = [
     avatar: arslanSaleemAvatar,
   },
   {
-    name: "Muhammad Shahbaz",
-    title: "Real Estate Consultant",
-    bio: "Experienced consultant providing expert guidance on property investments across the UAE.",
-    avatar: muhammadShahbazAvatar,
-  },
-  {
-    name: "Muhammad Waqar Khan",
-    title: "Real Estate Broker",
-    bio: "Experienced real estate broker delivering exceptional property solutions and client service across the UAE.",
-    avatar: muhammadWaqarKhanAvatar,
-  },
-  {
     name: "Alamgir Khan",
     title: "Real Estate Agent",
     bio: "Committed real estate agent helping clients navigate the UAE property market with professionalism and care.",
@@ -404,6 +392,18 @@ export const teamMembers = [
     title: "Real Estate Specialist",
     bio: "Skilled real estate specialist with in-depth knowledge of the UAE property market and investment opportunities.",
     avatar: asifKhanAvatar,
+  },
+  {
+    name: "Muhammad Shahbaz",
+    title: "Real Estate Consultant",
+    bio: "Experienced consultant providing expert guidance on property investments across the UAE.",
+    avatar: muhammadShahbazAvatar,
+  },
+  {
+    name: "Muhammad Waqar Khan",
+    title: "Real Estate Broker",
+    bio: "Experienced real estate broker delivering exceptional property solutions and client service across the UAE.",
+    avatar: muhammadWaqarKhanAvatar,
   },
 ];
 
