@@ -1,3 +1,4 @@
+import masaarProject from "@/assets/masaar-project.jpg";
 import tilalBuilding1 from "@/assets/tilal-building-1.jpeg";
 import tilalBuilding2 from "@/assets/tilal-building-2.jpeg";
 import tilalBuilding3 from "@/assets/tilal-building-3.jpeg";
@@ -238,6 +239,27 @@ export const properties: Property[] = [
     featured: true,
     offPlan: false,
   },
+  {
+    id: "10",
+    title: "Masaar by Arada",
+    description: "A nature-inspired master-planned community in Sharjah by Arada, featuring luxury villas surrounded by lush green parks, walking paths, social hubs, swimming pools, and recreational amenities. A truly accessible and connected development.",
+    price: 2800000,
+    priceFormatted: "AED 2,800,000",
+    roi: 8.0,
+    bedrooms: 4,
+    bathrooms: 5,
+    area: 3500,
+    type: "Villa",
+    location: "Masaar, Sharjah",
+    developer: "Arada",
+    handoverDate: "Q4 2026",
+    paymentPlan: "60/40",
+    images: [
+      masaarProject,
+    ],
+    featured: true,
+    offPlan: true,
+  },
 ];
 
 export const locations = [
@@ -251,6 +273,7 @@ export const locations = [
   "JVC",
   "Dubai Creek Harbour",
   "Tilal City, Sharjah",
+  "Masaar, Sharjah",
 ];
 
 export const testimonials = [
