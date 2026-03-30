@@ -358,6 +358,12 @@ export const teamMembers = [
     avatar: abrarAvatar,
   },
   {
+    name: "Muhammad Waqar Khan",
+    title: "Real Estate Broker",
+    bio: "Experienced real estate broker delivering exceptional property solutions and client service across the UAE.",
+    avatar: muhammadWaqarKhanAvatar,
+  },
+  {
     name: "Arslan Saleem",
     title: "Sales & Leasing Consultant",
     bio: "Dedicated sales professional helping clients find their ideal properties across the UAE.",
@@ -398,12 +404,6 @@ export const teamMembers = [
     title: "Real Estate Consultant",
     bio: "Experienced consultant providing expert guidance on property investments across the UAE.",
     avatar: muhammadShahbazAvatar,
-  },
-  {
-    name: "Muhammad Waqar Khan",
-    title: "Real Estate Broker",
-    bio: "Experienced real estate broker delivering exceptional property solutions and client service across the UAE.",
-    avatar: muhammadWaqarKhanAvatar,
   },
 ];
 
