@@ -114,7 +114,7 @@ const TermsOfService = () => {
                 <ul className="list-none space-y-1">
                   <li><strong>Email:</strong> realestateqalahtaltilal@gmail.com</li>
                   <li><strong>Phone:</strong> +971 500252026</li>
-                  <li><strong>Address:</strong> Building No 4851, Office# 01, Tilal City, Sharjah, UAE</li>
+                  <li><strong>Address:</strong> Qalaht Al Tilal Real Estate LLC Sp, Near Victoria School, Sharjah, UAE</li>
                 </ul>
               </section>
             </div>
