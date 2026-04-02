@@ -58,7 +58,7 @@ const Contact = () => {
             >
               <div className="space-y-5">
                 {[
-                  { icon: MapPin, label: "Office Address", value: "Building No 4851, Office# 01, Tilal City, Sharjah, United Arab Emirate" },
+                  { icon: MapPin, label: "Office Address", value: "Qalaht Al Tilal Real Estate LLC Sp, Near Victoria School, Sharjah, United Arab Emirates" },
                   { icon: Phone, label: "Phone", value: "+971 500252026" },
                   { icon: MessageCircle, label: "WhatsApp", value: "+971 500252026" },
                   { icon: Mail, label: "Email", value: "realestateqalahtaltilal@gmail.com" },
