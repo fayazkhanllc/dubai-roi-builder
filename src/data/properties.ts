@@ -16,6 +16,8 @@ import asifKhanAvatar from "@/assets/asif-khan.jpeg";
 import saddamHussainAvatar from "@/assets/saddam-hussain.jpeg";
 import abdulRehmanAvatar from "@/assets/abdul-rehman.jpeg";
 import farhanWarisAvatar from "@/assets/farhan-waris.jpeg";
+import alefAlmamzar1 from "@/assets/alef-almamzar-1.jpeg";
+import alefAlmamzar2 from "@/assets/alef-almamzar-2.jpeg";
 
 export interface Property {
   id: string;
@@ -260,6 +262,28 @@ export const properties: Property[] = [
     featured: true,
     offPlan: true,
   },
+  {
+    id: "11",
+    title: "Alef Seafront Community — Al Mamzar",
+    description: "A new seafront master community by Alef Group in Al Mamzar featuring 6 towers with direct beachfront living. Launching the first tower: 50 floors of 1, 2 & 3 bedroom apartments with modern, spacious layouts. EOI now open at AED 20,000. A landmark destination combining luxury, location & lifestyle.",
+    price: 849000,
+    priceFormatted: "From AED 849,000",
+    roi: 8.5,
+    bedrooms: 1,
+    bathrooms: 2,
+    area: 750,
+    type: "Apartment",
+    location: "Al Mamzar",
+    developer: "Alef Group",
+    handoverDate: "TBA",
+    paymentPlan: "30/70",
+    images: [
+      alefAlmamzar1,
+      alefAlmamzar2,
+    ],
+    featured: true,
+    offPlan: true,
+  },
 ];
 
 export const locations = [
@@ -274,6 +298,7 @@ export const locations = [
   "Dubai Creek Harbour",
   "Tilal City, Sharjah",
   "Masaar, Sharjah",
+  "Al Mamzar",
 ];
 
 export const testimonials = [
