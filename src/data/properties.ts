@@ -282,7 +282,7 @@ export const properties: Property[] = [
       alefAlmamzar2,
     ],
     featured: true,
-    offPlan: true,
+    offPlan: false,
   },
 ];
 
