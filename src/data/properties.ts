@@ -16,6 +16,7 @@ import asifKhanAvatar from "@/assets/asif-khan.jpeg";
 import saddamHussainAvatar from "@/assets/saddam-hussain.jpeg";
 import abdulRehmanAvatar from "@/assets/abdul-rehman.jpeg";
 import farhanWarisAvatar from "@/assets/farhan-waris.jpeg";
+import muhammadNaumanKhanAvatar from "@/assets/muhammad-nauman-khan.jpeg";
 import alefAlmamzar1 from "@/assets/alef-almamzar-1.jpeg";
 import alefAlmamzar2 from "@/assets/alef-almamzar-2.jpeg";
 
@@ -452,6 +453,12 @@ export const teamMembers = [
     title: "Real Estate Agent",
     bio: "Committed real estate agent helping clients navigate the UAE property market with professionalism and care.",
     avatar: alamgirKhanAvatar,
+  },
+  {
+    name: "Muhammad Nauman Khan",
+    title: "Trusted Property Advisor — Sharjah Sustainable City",
+    bio: "Whether you're buying, selling, or leasing, I provide expert guidance, transparent communication, and access to the best opportunities in Sharjah Sustainable City. Committed to making every property journey smooth and successful.",
+    avatar: muhammadNaumanKhanAvatar,
   },
 ];
 
