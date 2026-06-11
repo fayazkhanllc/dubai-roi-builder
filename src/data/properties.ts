@@ -17,6 +17,7 @@ import saddamHussainAvatar from "@/assets/saddam-hussain.jpeg";
 import abdulRehmanAvatar from "@/assets/abdul-rehman.jpeg";
 import farhanWarisAvatar from "@/assets/farhan-waris.jpeg";
 import muhammadNaumanKhanAvatar from "@/assets/muhammad-nauman-khan.jpeg";
+import naseebUllahAvatar from "@/assets/naseeb-ullah.png";
 import alefAlmamzar1 from "@/assets/alef-almamzar-1.jpeg";
 import alefAlmamzar2 from "@/assets/alef-almamzar-2.jpeg";
 
@@ -459,6 +460,12 @@ export const teamMembers = [
     title: "Trusted Property Advisor — Sharjah Sustainable City",
     bio: "Whether you're buying, selling, or leasing, I provide expert guidance, transparent communication, and access to the best opportunities in Sharjah Sustainable City. Committed to making every property journey smooth and successful.",
     avatar: muhammadNaumanKhanAvatar,
+  },
+  {
+    name: "Naseeb Ullah",
+    title: "Social Media Coordinator",
+    bio: "Creative social media coordinator driving Qalaht Al Tilal's online presence with engaging content, campaign management, and audience growth across digital platforms.",
+    avatar: naseebUllahAvatar,
   },
 ];
 
