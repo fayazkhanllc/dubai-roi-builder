@@ -61,7 +61,7 @@ const About = () => {
                 <img
                   src={m.avatar}
                   alt={m.name}
-                  className="w-32 h-32 rounded-full mx-auto object-cover border-2 border-primary mb-4"
+                  className="w-32 h-32 rounded-full mx-auto object-cover object-top border-2 border-primary mb-4"
                   loading="lazy"
                 />
                 <h3 className="font-display font-semibold text-foreground">{m.name}</h3>
@@ -88,7 +88,7 @@ const About = () => {
                 <img
                   src={m.avatar}
                   alt={m.name}
-                  className="w-32 h-32 rounded-full mx-auto object-cover border-2 border-primary mb-4"
+                  className="w-32 h-32 rounded-full mx-auto object-cover object-top border-2 border-primary mb-4"
                   loading="lazy"
                 />
                 <h3 className="font-display font-semibold text-foreground">{m.name}</h3>
