@@ -454,6 +454,7 @@ export const teamMembers = [
     title: "Sales & Leasing Consultant",
     bio: "Dedicated sales professional helping clients find their ideal properties across the UAE.",
     avatar: arslanSaleemAvatar,
+  },
   {
     name: "Muhammad Nauman Khan",
     title: "Trusted Property Advisor — Sharjah Sustainable City",
