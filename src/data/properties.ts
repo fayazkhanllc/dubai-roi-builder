@@ -426,6 +426,12 @@ export const teamMembers = [
     avatar: amirAmeenAvatar,
   },
   {
+    name: "Adnan Saeed",
+    title: "Sales & Leasing Management Expert",
+    bio: "Expert in sales and leasing management, delivering strategic property solutions across the UAE market.",
+    avatar: adnanSaeedAvatar,
+  },
+  {
     name: "Ramzan Aslam",
     title: "Real Estate Agent",
     bio: "Reliable real estate agent committed to helping clients find the perfect property across the UAE.",
@@ -448,13 +454,6 @@ export const teamMembers = [
     title: "Sales & Leasing Consultant",
     bio: "Dedicated sales professional helping clients find their ideal properties across the UAE.",
     avatar: arslanSaleemAvatar,
-  },
-  {
-    name: "Alamgir Khan",
-    title: "Real Estate Agent",
-    bio: "Committed real estate agent helping clients navigate the UAE property market with professionalism and care.",
-    avatar: alamgirKhanAvatar,
-  },
   {
     name: "Muhammad Nauman Khan",
     title: "Trusted Property Advisor — Sharjah Sustainable City",
