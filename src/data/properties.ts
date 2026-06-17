@@ -18,6 +18,7 @@ import abdulRehmanAvatar from "@/assets/abdul-rehman.jpeg";
 import farhanWarisAvatar from "@/assets/farhan-waris.jpeg";
 import muhammadNaumanKhanAvatar from "@/assets/muhammad-nauman-khan.jpeg";
 import naseebUllahAvatar from "@/assets/naseeb-ullah.png";
+import muhammadSalmanAvatar from "@/assets/muhammad-salman.jpeg";
 import alefAlmamzar1 from "@/assets/alef-almamzar-1.jpeg";
 import alefAlmamzar2 from "@/assets/alef-almamzar-2.jpeg";
 
@@ -466,6 +467,12 @@ export const teamMembers = [
     title: "Social Media Coordinator",
     bio: "Creative social media coordinator driving Qalaht Al Tilal's online presence with engaging content, campaign management, and audience growth across digital platforms.",
     avatar: naseebUllahAvatar,
+  },
+  {
+    name: "Muhammad Salman",
+    title: "Real Estate Agent",
+    bio: "Mr. Muhammad Salman is a professional real estate agent based in Sharjah, UAE, specializing in residential and commercial properties.",
+    avatar: muhammadSalmanAvatar,
   },
 ];
 
