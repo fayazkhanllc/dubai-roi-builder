@@ -396,16 +396,16 @@ export const testimonials = [
 
 export const teamMembers = [
   {
-    name: "Wali Khan",
-    title: "CEO",
-    bio: "Visionary leader driving Qalaht Al Tilal Real Estate with deep market expertise across the UAE.",
-    avatar: waliKhanAvatar,
-  },
-  {
     name: "Mr Abrar",
     title: "CEO",
     bio: "Strategic leader driving growth and innovation at Qalaht Al Tilal Real Estate.",
     avatar: abrarAvatar,
+  },
+  {
+    name: "Wali Khan",
+    title: "",
+    bio: "Visionary leader driving Qalaht Al Tilal Real Estate with deep market expertise across the UAE.",
+    avatar: waliKhanAvatar,
   },
   {
     name: "Muhammad Waqar Khan",
