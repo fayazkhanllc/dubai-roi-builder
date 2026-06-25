@@ -417,16 +417,16 @@ export const teamMembers = [
     avatar: muhammadWaqarKhanAvatar,
   },
   {
-    name: "Ali Khan",
-    title: "Real Estate Agent",
-    bio: "Professional real estate agent delivering tailored property solutions and exceptional client service across the UAE.",
-    avatar: aliKhanAsset.url,
-  },
-  {
     name: "Alamgir Khan",
     title: "Real Estate Agent",
     bio: "Committed real estate agent helping clients navigate the UAE property market with professionalism and care.",
     avatar: alamgirKhanAvatar,
+  },
+  {
+    name: "Ali Khan",
+    title: "Real Estate Agent",
+    bio: "Professional real estate agent delivering tailored property solutions and exceptional client service across the UAE.",
+    avatar: aliKhanAsset.url,
   },
   {
     name: "Amir Ameen",
