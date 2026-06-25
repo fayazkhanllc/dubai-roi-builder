@@ -20,6 +20,7 @@ import muhammadNaumanKhanAvatar from "@/assets/muhammad-nauman-khan.jpeg";
 import naseebUllahAvatar from "@/assets/naseeb-ullah.png";
 import muhammadSalmanAvatar from "@/assets/muhammad-salman.jpeg";
 import ahmadMukhtarAvatar from "@/assets/ahmad-mukhtar.jpeg";
+import aliKhanAsset from "@/assets/ali-khan.jpeg.asset.json";
 import alefAlmamzar1 from "@/assets/alef-almamzar-1.jpeg";
 import alefAlmamzar2 from "@/assets/alef-almamzar-2.jpeg";
 
@@ -414,6 +415,12 @@ export const teamMembers = [
     title: "Real Estate Broker",
     bio: "Experienced real estate broker delivering exceptional property solutions and client service across the UAE.",
     avatar: muhammadWaqarKhanAvatar,
+  },
+  {
+    name: "Ali Khan",
+    title: "Real Estate Agent",
+    bio: "Professional real estate agent delivering tailored property solutions and exceptional client service across the UAE.",
+    avatar: aliKhanAsset.url,
   },
   {
     name: "Alamgir Khan",
